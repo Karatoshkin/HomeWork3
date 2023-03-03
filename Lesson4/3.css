@@ -1,0 +1,44 @@
+body{
+    background-image: url("4.jpg");
+    background-size: 100%;
+    padding: 100px;
+    background-attachment: fixed;
+}
+
+div{
+    background-color: rgba(255,255,255,0.5);
+    text-shadow: 1px 1px gold;
+}
+p{
+    color: brown;
+}
+H1{
+    text-align: center;
+}
+
+nav{
+    background-color: rgba(255,255,255,0.5);
+    color: darkseagreen;
+    text-align: center;
+    padding: 10px;
+
+}
+
+ol{
+    list-style-type: none;
+}
+
+li{
+    display: inline;
+    margin-right: 150px;
+    font-size: 25px;
+}
+a{
+    color: yellowgreen;
+    text-decoration: none;
+
+}
+a:hover{
+    color: black;
+    text-decoration: underline;
+}

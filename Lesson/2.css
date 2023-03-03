@@ -1,0 +1,63 @@
+body{
+    background-image: url("FON.jpg");
+    background-size: 100%;
+    padding: 100px;
+    background-attachment: fixed;
+}
+
+.MM{
+    width: 40px;
+    float: top;
+    padding: revert;
+}
+
+#Lib{
+    float: left;
+    width: 350px;
+}
+
+div{
+    background-color: rgba(255,255,255,0.5);
+    position: fixed;
+    top: 15%;
+    left: 0;
+    width: 100%;
+    font-family: Arial;
+}
+p{
+    color: brown;
+}
+H1{
+    text-align: center;
+}
+
+nav{
+    background-color: rgba(255,255,255,0.5);
+    color: darkseagreen;
+    text-align: center;
+    padding: 0px 0px 30px 0px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+ol{
+    list-style-type: none;
+    position: relative;
+}
+
+li{
+    font-size: 20px;
+    position: relative;
+    left: 5%;
+}
+a{
+    color: yellowgreen;
+    text-decoration: none;
+
+}
+a:hover{
+    color: black;
+    text-decoration: underline;
+}

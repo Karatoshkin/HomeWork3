@@ -1,0 +1,29 @@
+body{
+    font-family: cursive;
+}
+
+header{
+    background-color: #cccccc;
+    margin: 100px 1200px 0px 100px;
+    padding: 0px 0px 0px 60px;
+}
+
+#winter{
+    list-style-image: url("winter.png");
+}
+
+#spring{
+    list-style-image: url("spring.png");
+}
+#summer{
+    list-style-image: url("summer.png");
+}
+
+#autumn{
+    list-style-image: url("autumn.png");
+}
+
+.s{
+    list-style-image: url("123.jpg");
+
+}

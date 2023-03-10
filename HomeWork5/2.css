@@ -1,18 +1,21 @@
 td{
-    border: 1px solid;
-    width: 100px;
-    height: 100px;
+    border: none;
+    width: 150px;
+    height: 60px;
     text-align: center;
     vertical-align: center;
 }
 
 table{
-    border: 1px solid;
+    border: 45px solid #efefef;
     border-collapse: collapse;
+    margin: 50px 50px 50px;
+    background: #efefef;
+    border-radius: 20px ;
 }
 
 #title{
-    background-color: grey;
+    background-color: #5ab2e3;
     text-align: center;
 
 }
@@ -21,26 +24,26 @@ table{
     font-weight: 600;
 }
 
-img{
-    width: 100px;
-    height: 100px;
+
+.vert1{
+    background-color: #5ab2e3;
 }
 
-div{
-    width: 100px;
-    height: 100px;
-    border: 2px solid;
-    display: inline-block;
+#title3{
+    background-color: #cecece;
 }
 
-div:last-child{
-    background-color: yellowgreen;
+#title5{
+    background-color: #cecece;
+}
+#title7{
+    background-color: #cecece;
 }
 
-div:first-child{
-    background-color: #9A5044;
+#title9{
+    background-color: #cecece;
 }
 
-div:nth-child(3){
-    background-color: #d000ff;
+td:first-child{
+    background: #5ab2e3;
 }
